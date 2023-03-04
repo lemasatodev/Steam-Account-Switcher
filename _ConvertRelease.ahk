@@ -24,17 +24,17 @@ exeFile := project ".exe"
 
 ToolTip, Compiling %exeFile%
 ; CompileFile(A_ScriptDir "\" ahkFile, A_ScriptDir "\" exeFile)
-CompileFile(A_ScriptDir "\" ahkFile, A_ScriptDir "\" exeFile, project, ver, "© lemasato.github.io " A_YYYY)
+CompileFile(A_ScriptDir "\" ahkFile, A_ScriptDir "\" exeFile, project, ver, "© lemasatodev.github.io " A_YYYY)
 
 ; Updater file 
 ; ToolTip, Compiling Updater.exe
 ; CompileFile(A_ScriptDir "\Updater.ahk", A_ScriptDir "\Updater.exe")
-; CompileFile(A_ScriptDir "\Updater.ahk", A_ScriptDir "\Updater.exe", project ": Updater", "1.0", "© lemasato.github.io " A_YYYY)
+; CompileFile(A_ScriptDir "\Updater.ahk", A_ScriptDir "\Updater.exe", project ": Updater", "1.0", "© lemasatodev.github.io " A_YYYY)
 
 ; Updater file v2
 ; ToolTip, Updater_v2.exe
 ; CompileFile(A_ScriptDir "\Updater_v2.ahk", A_ScriptDir "\Updater_v2.exe")
-; CompileFile(A_ScriptDir "\Updater_v2.ahk", A_ScriptDir "\Updater_v2.exe", project ": Updater", "2.1", "© lemasato.github.io " A_YYYY)
+; CompileFile(A_ScriptDir "\Updater_v2.ahk", A_ScriptDir "\Updater_v2.exe", project ": Updater", "2.1", "© lemasatodev.github.io " A_YYYY)
 
 ; End
 SoundPlay, *32

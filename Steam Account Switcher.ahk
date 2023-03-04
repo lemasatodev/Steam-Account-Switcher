@@ -4,7 +4,7 @@
 *					Easily switch between your saved steam accounts                                                                                             *
 *                   No password required, clever use of Steam cookies                               															*
 *																																								*
-*					https://github.com/lemasato/Steam-Account-Switcher/																							*
+*					https://github.com/lemasatodev/Steam-Account-Switcher/																							*
 *																																								*	
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 */
@@ -87,11 +87,11 @@ Start_Script() {
 	PROGRAM.VERSION 				:= "0.2.4"
 	PROGRAM.IS_BETA					:= IsContaining(PROGRAM.VERSION, "beta")?"True":"False"
 
-	PROGRAM.GITHUB_USER 			:= "lemasato"
+	PROGRAM.GITHUB_USER 			:= "lemasatodev"
 	PROGRAM.GITHUB_REPO 			:= "Steam-Account-Switcher"
 	PROGRAM.GUTHUB_BRANCH			:= "master"
 
-	PROGRAM.MAIN_FOLDER 			:= MyDocuments "\lemasato\" PROGRAM.NAME
+	PROGRAM.MAIN_FOLDER 			:= MyDocuments "\lemasatodev\" PROGRAM.NAME
 	PROGRAM.LOGS_FOLDER 			:= PROGRAM.MAIN_FOLDER "\Logs"
 	PROGRAM.FONTS_FOLDER 			:= PROGRAM.MAIN_FOLDER "\Fonts"
 	PROGRAM.IMAGES_FOLDER			:= PROGRAM.MAIN_FOLDER "\Images"
@@ -107,14 +107,14 @@ Start_Script() {
 
 	PROGRAM.NEW_FILENAME			:= PROGRAM.MAIN_FOLDER "\SAS-NewVersion.exe"
 	PROGRAM.UPDATER_FILENAME 		:= PROGRAM.MAIN_FOLDER "\SAS-Updater.exe"
-	PROGRAM.LINK_UPDATER 			:= "https://raw.githubusercontent.com/lemasato/Steam-Account-Switcher/master/Updater_v2.exe"
-	PROGRAM.LINK_CHANGELOG 			:= "https://raw.githubusercontent.com/lemasato/Steam-Account-Switcher/master/resources/changelog.txt"
+	PROGRAM.LINK_UPDATER 			:= "https://raw.githubusercontent.com/lemasatodev/Steam-Account-Switcher/master/Updater_v2.exe"
+	PROGRAM.LINK_CHANGELOG 			:= "https://raw.githubusercontent.com/lemasatodev/Steam-Account-Switcher/master/resources/changelog.txt"
 
 	PROGRAM.CURL_EXECUTABLE			:= PROGRAM.MAIN_FOLDER "\curl.exe"
 
-	PROGRAM.LINK_REDDIT 			:= "https://www.reddit.com/user/lemasato/submitted/"
+	PROGRAM.LINK_REDDIT 			:= "https://www.reddit.com/user/lemasatodev/submitted/"
 	PROGRAM.LINK_GGG 				:= "https://www.pathofexile.com/forum/view-thread/1755148/"
-	PROGRAM.LINK_GITHUB 			:= "https://github.com/lemasato/Steam-Account-Switcher/"
+	PROGRAM.LINK_GITHUB 			:= "https://github.com/lemasatodev/Steam-Account-Switcher/"
 	PROGRAM.LINK_SUPPORT 			:= "https://www.paypal.me/masato/"
 	PROGRAM.LINK_DISCORD 			:= "https://discord.gg/UMxqtfC"
 

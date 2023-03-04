@@ -1,25 +1,25 @@
-<a href="https://www.paypal.me/masato/"><img src="https://raw.githubusercontent.com/lemasato/POE-Trades-Companion/master/others/Banners/Donate using PayPal.png" height=40></a> <!-- Paypal Banner -->  
+<a href="https://www.paypal.me/masato/"><img src="https://raw.githubusercontent.com/lemasatodev/POE-Trades-Companion/master/others/Banners/Donate using PayPal.png" height=40></a> <!-- Paypal Banner -->  
 [paypal.me/masato](https://www.paypal.me/masato) - [Alternative paypal cart button](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BSWU76BLQBMCU)
     
 Steam Account Switcher is and will always be free to use.  
 Your name will appear on this page if you choose to donate!
 
 Join the official discord channel!  
-<a href="https://discord.gg/UMxqtfC"><img src="https://raw.githubusercontent.com/lemasato/POE-Trades-Companion/master/resources/imgs/Discord_big.png" height=50></a>
+<a href="https://discord.gg/UMxqtfC"><img src="https://raw.githubusercontent.com/lemasatodev/POE-Trades-Companion/master/resources/imgs/Discord_big.png" height=50></a>
 
 If needed, you can contact me on:  
-<a href="https://discord.gg/UMxqtfC"><img src="https://raw.githubusercontent.com/lemasato/POE-Trades-Companion/master/resources/imgs/Discord_big.png" height=30></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/lemasato/submitted/"><img src="https://raw.githubusercontent.com/lemasato/POE-Trades-Companion/master/resources/imgs/Reddit_big.png" height=30></a>  
+<a href="https://discord.gg/UMxqtfC"><img src="https://raw.githubusercontent.com/lemasatodev/POE-Trades-Companion/master/resources/imgs/Discord_big.png" height=30></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/lemasatodev/submitted/"><img src="https://raw.githubusercontent.com/lemasatodev/POE-Trades-Companion/master/resources/imgs/Reddit_big.png" height=30></a>  
 
 ***
 
 ## Usage
 
-- Download the latest executable from the [releases page](https://github.com/lemasato/Steam-Account-Switcher/releases)
+- Download the latest executable from the [releases page](https://github.com/lemasatodev/Steam-Account-Switcher/releases)
 - Run the downloaded executable
 ### OR
 - Download and install [AutoHotKey](https://autohotkey.com/download/) from the official website.  
-- Download and extract [Steam-Account-Switcher-AHK.zip](https://github.com/lemasato/Steam-Account-Switcher/releases) from the releases page.  
+- Download and extract [Steam-Account-Switcher-AHK.zip](https://github.com/lemasatodev/Steam-Account-Switcher/releases) from the releases page.  
 - Run Steam Account Switcher.ahk  
 
 You can add or remove accounts from the list by using right click.  
@@ -28,7 +28,7 @@ You can add or remove accounts from the list by using right click.
 
 ||||
 |---|---|---|
-|<img src=https://raw.githubusercontent.com/lemasato/Steam-Account-Switcher/master/screenshots/interface.png>|<img src=https://raw.githubusercontent.com/lemasato/Steam-Account-Switcher/master/screenshots/interface-3.png>|<img src=https://raw.githubusercontent.com/lemasato/Steam-Account-Switcher/master/screenshots/interface-2.png>|
+|<img src=https://raw.githubusercontent.com/lemasatodev/Steam-Account-Switcher/master/screenshots/interface.png>|<img src=https://raw.githubusercontent.com/lemasatodev/Steam-Account-Switcher/master/screenshots/interface-3.png>|<img src=https://raw.githubusercontent.com/lemasatodev/Steam-Account-Switcher/master/screenshots/interface-2.png>|
 
 ## Key Features  
 - **Easily log into your Steam accounts, without having to type your password.**  
