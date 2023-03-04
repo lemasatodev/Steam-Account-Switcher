@@ -1,0 +1,53 @@
+= = = = = = = = = = = = =
+0.2.4 (27 Jan 2021)
+	Fixes:
+	- An error message box could occur when checking for update even if nothing went wrong.
+
+= = = = = = = = = = = = =
+0.2.3 (02 Oct 2020)
+	Features:
+	- Added the /LaunchCommand and /SteamParams parameter. Refer to README on the repo for usage instruction.
+	
+	Fixes:
+	- /SteamPath wouldn't work with custom executable files as it should.
+	- Buttons text would appear small on high resolution scaling.
+
+= = = = = = = = = = = = =
+0.2.2 (18 Aug 2020)
+	Those are mostly changes that were already pushed on the branch a long time ago but not publicly made available as an update.
+	
+	Features:
+	- Added /SteamPath parameter. Use this if you want this application to use a specific steam folder if you have multiple copies of Steam. Refer to the README.MD on GitHub for usage examples.
+	- Added /NoSteamShutdown parameter. This prevent the application from closing the previous Steam instance. Refer to the README.MD on GitHub for usage examples.
+	- Can now quickly switch accounts directly from the tray menu.
+	
+	Changes:
+	- Disabled forcing application start as admin.
+	- Only close the currently running Steam process if it matches the same path as the one we are trying to run.
+	- Do not show any warning about the "LastUpdateCheck" ini value being invalid.
+
+= = = = = = = = = = = = =
+0.2.1 (21 March 2019)
+	Feature: Added /StartMinimized command-line parameter. Allows to start the tool minimized. Check the README for more informations.
+	Fix: The "Minimize tool instead of close" checkbox's check state wouldn't be set correctly on app load.
+	
+0.2 (20 March 2019)
+	Features:
+	- Added an option to start steam offline.
+	- Added an option to minimize the tool instead of closing after login.
+	- Added new command-line parameters:
+	/Account=username - Directly log into that account without using the interface.
+	/Offline - Needs to be used with /Account. Launch steam in offline mode.
+	
+	Changes/Improvements:
+	- Can now open the tray menu by left clicking.
+	- Can now open the interface from the tray menu.
+	- Added a button to minimize the interface.
+	- Double click on the account name to log in.
+	
+	Fixes:
+	- Missing icon for notifications.
+
+= = = = = = = = = = = = =
+0.1 (06 Jan 2019)
+	- Initial release.
