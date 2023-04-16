@@ -91,7 +91,7 @@ Start_Script() {
 	PROGRAM.GITHUB_REPO 			:= "Steam-Account-Switcher"
 	PROGRAM.GUTHUB_BRANCH			:= "master"
 
-	PROGRAM.MAIN_FOLDER 			:= MyDocuments "\lemasatodev\" PROGRAM.NAME
+	PROGRAM.MAIN_FOLDER 			:= MyDocuments "\lemasato\" PROGRAM.NAME
 	PROGRAM.LOGS_FOLDER 			:= PROGRAM.MAIN_FOLDER "\Logs"
 	PROGRAM.FONTS_FOLDER 			:= PROGRAM.MAIN_FOLDER "\Fonts"
 	PROGRAM.IMAGES_FOLDER			:= PROGRAM.MAIN_FOLDER "\Images"
